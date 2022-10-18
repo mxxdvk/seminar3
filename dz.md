@@ -73,4 +73,9 @@ Git — система управления версиями с распреде
 
     git merge <branch_name>
 
-new massage
+## Удаление ветвей
+
+Для удаления ветви, нужно ввести команду :
+
+    git branch -d <branch_name>
+    
