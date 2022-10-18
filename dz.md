@@ -73,3 +73,4 @@ Git — система управления версиями с распреде
 
     git merge <branch_name>
 
+new massage
