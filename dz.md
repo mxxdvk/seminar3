@@ -62,3 +62,4 @@ Git — система управления версиями с распреде
 
     git checkout
 
+newmessage
